@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 
 
 const ContactPage = () => (
-  <div>
+  <div className="cointainer">
     <h1>Contact Form</h1>
     <p>メールフォーム送信テスト</p>
     <form 
